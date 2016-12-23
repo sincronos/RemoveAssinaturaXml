@@ -1,0 +1,1795 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RemoveAssinaturaXml.Model.SignatureType" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAACABAAAAAAAAAAgAAIgAIAACSAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.SignedInfoType" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AoACAECCAEAAAAAAAAAAAAAAgAAAACAEAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.SignedInfoTypeCanonicalizationMethod" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAgAAAAAAAAAgAAAQAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.X509DataType" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAgAAAAAAAACAEAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.KeyInfoType" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAACAAAAAAAAAAAAAAAAgAAAACAAgAAAAAAACAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.SignatureValueType" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAACAAAAAAAAAAAAAAAAgAACACAAAAAgAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TransformType" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAABAAAAAAAAAAAAAgAAAAAAAAAgAAAQAABA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.ReferenceType" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAACAAACAAAAAEAAEABAgiABBCAAAQAAAAAAACA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.ReferenceTypeDigestMethod" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAgAAAAAAAAAgAAAQAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.SignedInfoTypeSignatureMethod" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAgAAAAAAAAAgAAAQAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TConsReciNFe" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAACAAggAAJAAAAAAAAAgAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TConsSitNFe" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAQACAggAAAYAAAAAAAAAgAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TConsStatServ" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAACAggAAAIAAABAAAAAgAAAAAAAAAAAJAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TEnviNFe" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAgAAACEAAAABAAAgAAAAACAAAAABIAQAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFe" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAgAAAgAEAACAAAEAAAAAAACE=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFe" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>qCASQCACQAkUAAACEAAAgAAAgAFAGCQIAMAQBlAAAgA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeIde" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IF4AAQECAgIMQAIghAFoJARUoAACAQagiQAgJgCFIAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeIdeNFref" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAACAAAAAAAAAQEgAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeIdeNFrefRefECF" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAACAAAAAAAAAAAABAAAgABAAAAgACAAQAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeIdeNFrefRefNF" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAQBCAAAAQAAAAABABAQAgAAIAASAAAAAIAgAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeIdeNFrefRefNFP" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAQBCAAAAWAAAAABABAQEgAAAAACEAAAgIAgAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeEmit" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAASQAQAGAAAAAAQAAQFogWAAAAEAAEgAABgAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TEnderEmi" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>mYAAAQECAgBAAQgIAAAJoIAAgVgAIgAAAAAEAgAAAAE=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeAvulsa" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAALDCAgAgAAJACAAoCAAgkAIAAQABAAABAABAAE=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDest" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAASQAEgGAAgAAIQAASEiABAAAAEAAAgAABAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TEndereco" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>mIAAAQECAgBAAQAIAAAJoIAAgVgAIgAAAAAEAgAAAAE=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TLocal" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>mAAAAAECAgAACAAIAAABgIQEgVgAAgAAAAAgAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeAutXML" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAACAAAAAAAAAQEgAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDet" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAACQEAAIEAIAAAAAAAAgAAAAAAAAAAAABAAgIA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetProd" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CApQAICfADEACIVAFgBSASCAgoAQAQBADQaAAIQRguQ=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetProdDI" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIDACAAAARIAggBAFBQAAgKCIABQAAAiQAAQCAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetProdDIAdi" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIAAADAAAAIAAAAAAQAABAgAAAAAEAAAAAAFAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetProdDetExport" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAADAAAAAAAAAAAAAQAAgAAACAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetProdDetExportExportInd" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQACAAAAQAQAAAAAAAAAgAAIAAAAJAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetProdArma" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JAAIAAACAAAAAAAQAAAAAAAAhAAAEAAQAAAEAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetProdComb" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAyAAAaAAAAAQAQAQAgAAQAgAAAAAIAAAAAAAABAEA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetProdCombCIDE" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAACIAABAAAAAAEAAAAAgAAAAIAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetProdCombEncerrante" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAICAAAAAAAAAoQABAAAQAAAAAEAQAAQ=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetProdMed" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAEAgAiAAAQAAAAABAAAAIAgQAAAAAAAAAAAGAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetProdVeicProd" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAKIAgCKIwBaEEGEEQAAIBEgFgHECgARBAABAS0DgM=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImposto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQIIFSCAAAQCAAAAAAAAAAAgiAAAAAAAEAAAACAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMS" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAEgAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMS00" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAgCAACBAIACAAAAAAAIoAAAAAAAAAIAAAAgEAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMS10" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAhCEACpBICCAAAAACAIoACAAAAAAAIAAAAhEAg=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMS20" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAEgCAACBAIICAAACAABIoAAAAAAAAAIIAABgEAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMS30" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABCEACpBAKAAAACACBAoACAAAAAAAAAAABhEAg=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMS40" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAACBAAIAAAACAABAgAAAAAAAAAAAAABgEAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMS51" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIBEgDgACBEIgCAAAAAAAIoAAQAAAAAAIIAAAwEAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMS60" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAACAICBAAAABAAAAAAAgAAAAAABAAAAAAAgEAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMS70" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAEhCEACpBIKCAAACACBIoACAAAAAAAIIAABhEAg=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMS90" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAEhCEACpBIKCAAACACBIoACAAAAAAAIIAABhEAg=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMSPart" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAEhCGACpBISCAAAAACAIqgCAAAAAAAIIAAAhEAg=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMSSN101" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAQACACCBAAAAAAAAgAAAgAAAAAAAACAAAAAIAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMSSN102" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAACAACBAAAAAAAAAAAAgAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMSSN201" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAQBCECCpBACAAAAAgCAAoACAAAAAACAAAAAJAAg=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMSSN202" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAABCEACpBACAAAAAACAAoACAAAAAACAAAAABAAg=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMSSN500" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AECAAAACAICBAAAABAAAAAAAgAAAAAABACAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMSSN900" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASIAUhCECCpBICCAAAAgCAIoACAAAAAACIIAAAJAAg=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMSST" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAACAYCBAAAABAAAADAAgABAAAABAAAAAAAgEAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoII" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAQACBAAAAAAAAIAAAAAApEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TIpi" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEKAEAAAICQAAAAAgAEwAAAIAAAAAAgAAAAAQA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TIpiIPINT" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAgEAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TIpiIPITrib" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAACCAAAACAAAAAQBAAAAgAAAAAAACAAAAAAgEAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoISSQN" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gIQAACQGAACgASAgQIhbAAhAoRAIIgIBAAAAAkAAAIA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoPIS" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAEgAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoPISPISAliq" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAACAAAAAAAAAAAAAAEAoAAAAAAAAIAAAAAgEEA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoPISPISNT" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAgEAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoPISPISOutr" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIgAACCAAAACAAAAAABAAEAgAAAAAAAAAAAAAAgEAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoPISPISQtde" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAJAAAACIAABAAAAAAAAAAEAgAAAAIAAAAAAAAAgEAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoPISST" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIgAACCAAAACAAAAAABAAEAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoCOFINS" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAEgAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoCOFINSCOFINSAliq" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAEAACAAAAAABAAAAAAAAAogAAAAAAAAAAAAAgEAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoCOFINSCOFINSNT" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAgEAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoCOFINSCOFINSOutr" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgEACCAAAACAAAAAABAAAAggAAAAAAAAAAAAAgEAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoCOFINSCOFINSQtde" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAEAACIAABAAAAAAAAAAAAggAAAIAAAAAAAAAgEAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoCOFINSST" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgEACCAAAACAAAAAABAAAAggAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSUFDest" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAUACAAAYQAAAACAAAAAwiAgAAEAAAAAAAQgAAIE=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoDevol" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAIAAAAAoEAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoDevolIPI" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAACAAAAAAAAAAAAAAAAgAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeTotal" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAASAAAAAAAIAAAAAEAAgAAAAAAAAAAAECBAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeTotalICMSTot" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AA5KEQEGAAAIQAGCBAQCACEsokAAAEBACACAAQJAgIA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeTotalISSQNtot" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAYAFAAGAAAAACAAgIhAADkAoiAAYIgAAAAAAAAgAIA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeTotalRetTrib" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAACAAAAAowQAAYAAAgSgAAAAAAAIAAAIAAAgAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeTransp" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAACCAAABCCAQCAABACAAgAAAAAKAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeTranspTransporta" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAESQAAAGAAIAAAAgCQEhAgBCAAEAAAgAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeTranspRetTransp" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACQAAAAAAAAFAAACBAgAAAACIAAQAAABAEAIA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TVeiculo" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAACAAIAAAAgBAAgAAAAABAAAQAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeTranspVol" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AICABEACAAAQAEAAEQAAAAAAgBAAAAAAAAAMhAAAAAQ=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeTranspVolLacres" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAgAAAAAAAAIABAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeCobr" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AADAAACCAAAAAAAAAAAAEAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeCobrFat" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAACAAAAAAECAAAAAAAAgAAABAAIAAACgABAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeCobrDup" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAgAAIgAAIAAAAAAAgAAEAAAE=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFePag" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAASQIAAAAAAAAAAAAAAiAAAQAAAAAAAAAAAACA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFePagCard" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAgCAQAAAAAAAAAAAAAIgAAIAgQAAAAAAQBQAQA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeInfAdic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQAAAAACSAAAAAAAAAAAAAASgAAAAABQAAAAAAAAwAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeInfAdicObsCont" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAQAgAAAAACAAAAAQAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeInfAdicObsFisco" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAQAgAAAAACAAAAAQAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeInfAdicProcRef" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEgACAAAAAAQAAAEAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeExporta" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAACABAAAAAAAAAABAAAgAAAAIAEAAAAAAAAAQA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeCompra" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACCAAAAAAAAAAAAAAAgAAAAgAABICAAAAgAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeCana" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACMuAACEAAEAAgQAAAAIAAEgIAIgMAAAQABAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeCanaForDia" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACACAAAAAEAAABAAAAgAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeCanaDeduc" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACCAAAQCAAAAAAAAAAAAAAAAgAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNFeInfNFeSupl" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAACAAAAAAAAABAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TInutNFe" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAACAAgAAACAAAAAgAAAgAAAAAAAAAAABAAAAAE=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TInutNFeInfInut" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAgSASACAggAQAIAgABBBAAAgAAIACQAAAAgIAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TProcInutNFe" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAACAAgAAAAQAAAAAAAAgAAAAAAgAAQABAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TRetInutNFe" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAACAAgAAACAAAAAgAAAgAAAAAAAAAAABAAAAAE=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TRetInutNFeInfInut" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAgSQSACAAAAQAoAAABDBAAAgCAIACQAAAAgpFCAoAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TNfeProc" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAgAAAAAAAAABAIAgAABAAAAAAAABIAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TProtNFe" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAACAAgAAAAAAAAAgAAAgAAAAAAAAAAABAAQAAE=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TProtNFeInfProt" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgCAQgCAAAAAA4AAAACAQAAgCAAACAAAAAgBFCAoAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TRetConsReciNFe" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAACAAggAApAAAJCAAIAgAAFAAAAAAAkJFCAoAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TRetConsSitNFe" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAgAAQACGAgAAA4AAABCAAIAgAABAAEAAAAgJFCAIAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TRetCancNFe" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAgEAAAAAAAAgAAAgAAAAAAAAAAABAAAgAE=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TRetCancNFeInfCanc" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgCAQACAAAAAA4AAABCAAAAgCAABCAAAAAgJFCAoAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TProcEvento" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEACAAgAAAAAAAAAAAAAgAAAAAIAAAAABAAEAIA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TEvento" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAgAAACAAAAAgAAAgAAAEAAAAAAABAAAAAE=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TEventoInfEvento" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAgSAQQCAIAACAYAAAEAAAQHoAFAACAAAAAkAAEAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TEventoInfEventoDetEvento" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAQAAACAAAAAAAAAAAAACAAgAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TRetEvento" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAgAAACAAAAAgAAAgAAAEAAAAAAABAAAAAE=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TRetEventoInfEvento" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AggCAQACAIAACA4UAAECIAQHgCAAACAAAAAkBFEAgAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TRetConsStatServ" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAIAAKgAgAAAoAAQBCAAAAgAAAAAAABAAgJFCAIAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TRetEnviNFe" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAACAAgAAAoAAABCAAAEgAAAAAAAAAAgJFCAIAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RemoveAssinaturaXml.Model.TRetEnviNFeInfRec" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAACAAAgAABAAAAAAAAAgAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Enum Name="RemoveAssinaturaXml.Model.TTransformURI" Collapsed="true">
+    <Position X="2.25" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TAmb" Collapsed="true">
+    <Position X="5.75" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TConsSitNFeXServ" Collapsed="true">
+    <Position X="14.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TVerConsSitNFe" Collapsed="true">
+    <Position X="7.5" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TCodUfIBGE" Collapsed="true">
+    <Position X="12.75" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAIBAACAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TConsStatServXServ" Collapsed="true">
+    <Position X="16.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TEnviNFeIndSinc" Collapsed="true">
+    <Position X="2.25" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeIdeIndPag" Collapsed="true">
+    <Position X="14.5" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TMod" Collapsed="true">
+    <Position X="11" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeIdeTpNF" Collapsed="true">
+    <Position X="5.75" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeIdeIdDest" Collapsed="true">
+    <Position X="11" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAIAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeIdeTpImp" Collapsed="true">
+    <Position X="4" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAAAIBAACAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeIdeTpEmis" Collapsed="true">
+    <Position X="2.25" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACBgAAAAIBAACAAAAAgABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TFinNFe" Collapsed="true">
+    <Position X="4" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAIBAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeIdeIndFinal" Collapsed="true">
+    <Position X="12.75" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeIdeIndPres" Collapsed="true">
+    <Position X="16.25" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACBAEAAAIBAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TProcEmi" Collapsed="true">
+    <Position X="0.5" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAAAIAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeIdeNFrefRefECFMod" Collapsed="true">
+    <Position X="18" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeIdeNFrefRefNFMod" Collapsed="true">
+    <Position X="19.75" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.ItemChoiceType" Collapsed="true">
+    <Position X="0.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeIdeNFrefRefNFPMod" Collapsed="true">
+    <Position X="0.5" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.ItemChoiceType1" Collapsed="true">
+    <Position X="2.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACBAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.ItemChoiceType2" Collapsed="true">
+    <Position X="4" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TUfEmi" Collapsed="true">
+    <Position X="5.75" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KACEADCAEABIEmBAABABAAAgQIEAQABAAAAAAADBQAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TEnderEmiCPais" Collapsed="true">
+    <Position X="19.75" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TEnderEmiXPais" Collapsed="true">
+    <Position X="0.5" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeEmitCRT" Collapsed="true">
+    <Position X="9.25" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAIAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.ItemChoiceType3" Collapsed="true">
+    <Position X="5.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAACAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TUf" Collapsed="true">
+    <Position X="4" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KACEADCAEABIkmBAABABAAAgQIEAQABAAAAAAADBQAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.Tpais" Collapsed="true">
+    <Position X="19.75" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>7535GXzy/ubq73v/faj7Pv4fq/8+0/OTZsd6rvJUXfY=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDestIndIEDest" Collapsed="true">
+    <Position X="12.75" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACBAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.ItemChoiceType4" Collapsed="true">
+    <Position X="7.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.ItemChoiceType5" Collapsed="true">
+    <Position X="9.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TCfop" Collapsed="true">
+    <Position X="7.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>++z/wf7/O9L+Y/79989+Mjp/g/b5f5f+/xOQftORf7U=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetProdIndTot" Collapsed="true">
+    <Position X="0.5" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetProdDITpViaTransp" Collapsed="true">
+    <Position X="19.75" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACBgAAAAIBAQCAAAAAgABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetProdDITpIntermedio" Collapsed="true">
+    <Position X="18" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAIAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetProdArmaTpArma" Collapsed="true">
+    <Position X="16.25" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetProdVeicProdTpOp" Collapsed="true">
+    <Position X="4" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAAAIAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetProdVeicProdVIN" Collapsed="true">
+    <Position X="7.5" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAQA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetProdVeicProdCondVeic" Collapsed="true">
+    <Position X="2.25" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAIAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetProdVeicProdTpRest" Collapsed="true">
+    <Position X="5.75" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACBAEAAAIBAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.Torig" Collapsed="true">
+    <Position X="18" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABgEAAAIBAQCAAAAAgABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMS00CST" Collapsed="true">
+    <Position X="0.5" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMS00ModBC" Collapsed="true">
+    <Position X="2.25" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAAAIAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMS10CST" Collapsed="true">
+    <Position X="4" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMS10ModBC" Collapsed="true">
+    <Position X="5.75" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAAAIAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMS10ModBCST" Collapsed="true">
+    <Position X="7.5" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAAAIBAACAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMS20CST" Collapsed="true">
+    <Position X="9.25" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMS20ModBC" Collapsed="true">
+    <Position X="11" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAAAIAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMS20MotDesICMS" Collapsed="true">
+    <Position X="12.75" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAIAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMS30CST" Collapsed="true">
+    <Position X="14.5" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMS30ModBCST" Collapsed="true">
+    <Position X="16.25" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAAAIBAACAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMS30MotDesICMS" Collapsed="true">
+    <Position X="18" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAgAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMS40CST" Collapsed="true">
+    <Position X="19.75" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMS40MotDesICMS" Collapsed="true">
+    <Position X="0.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAgAAAAIBAQCAAAAAgIBAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMS51CST" Collapsed="true">
+    <Position X="2.25" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMS51ModBC" Collapsed="true">
+    <Position X="4" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAAAIAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMS60CST" Collapsed="true">
+    <Position X="5.75" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMS70CST" Collapsed="true">
+    <Position X="7.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMS70ModBC" Collapsed="true">
+    <Position X="9.25" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAAAIAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMS70ModBCST" Collapsed="true">
+    <Position X="11" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAAAIBAACAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMS70MotDesICMS" Collapsed="true">
+    <Position X="12.75" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAIAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMS90CST" Collapsed="true">
+    <Position X="14.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMS90ModBC" Collapsed="true">
+    <Position X="16.25" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAAAIAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMS90ModBCST" Collapsed="true">
+    <Position X="18" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAAAIBAACAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMS90MotDesICMS" Collapsed="true">
+    <Position X="19.75" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAIAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMSPartCST" Collapsed="true">
+    <Position X="0.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMSPartModBC" Collapsed="true">
+    <Position X="2.25" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAAAIAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMSPartModBCST" Collapsed="true">
+    <Position X="4" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAAAIBAACAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMSSN101CSOSN" Collapsed="true">
+    <Position X="5.75" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMSSN102CSOSN" Collapsed="true">
+    <Position X="7.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABgQAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMSSN201CSOSN" Collapsed="true">
+    <Position X="9.25" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMSSN201ModBCST" Collapsed="true">
+    <Position X="11" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAAAIBAACAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMSSN202CSOSN" Collapsed="true">
+    <Position X="12.75" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMSSN202ModBCST" Collapsed="true">
+    <Position X="14.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAAAIBAACAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMSSN500CSOSN" Collapsed="true">
+    <Position X="16.25" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMSSN900CSOSN" Collapsed="true">
+    <Position X="18" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMSSN900ModBC" Collapsed="true">
+    <Position X="19.75" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAAAIAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMSSN900ModBCST" Collapsed="true">
+    <Position X="0.5" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAAAIBAACAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSICMSSTCST" Collapsed="true">
+    <Position X="2.25" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TIpiIPINTCST" Collapsed="true">
+    <Position X="7.5" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TIpiIPITribCST" Collapsed="true">
+    <Position X="9.25" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAEAAAABAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.ItemsChoiceType" Collapsed="true">
+    <Position X="16.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAACAQBAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TCListServ" Collapsed="true">
+    <Position X="11" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACA93sJIQDA+70AAABoOQYAAIAAAAAASQAAAACsBQA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoISSQNIndISS" Collapsed="true">
+    <Position X="7.5" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABgAAAAIBAACAAAAAgABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoISSQNIndIncentivo" Collapsed="true">
+    <Position X="5.75" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoPISPISAliqCST" Collapsed="true">
+    <Position X="9.25" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoPISPISNTCST" Collapsed="true">
+    <Position X="11" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoPISPISOutrCST" Collapsed="true">
+    <Position X="12.75" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAgAAAAABAACAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.ItemsChoiceType1" Collapsed="true">
+    <Position X="18" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAIAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoPISPISQtdeCST" Collapsed="true">
+    <Position X="14.5" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.ItemsChoiceType2" Collapsed="true">
+    <Position X="19.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAIAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoCOFINSCOFINSAliqCST" Collapsed="true">
+    <Position X="14.5" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoCOFINSCOFINSNTCST" Collapsed="true">
+    <Position X="16.25" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoCOFINSCOFINSOutrCST" Collapsed="true">
+    <Position X="18" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAgAAAAABAACAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.ItemsChoiceType3" Collapsed="true">
+    <Position X="0.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAxAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoCOFINSCOFINSQtdeCST" Collapsed="true">
+    <Position X="19.75" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.ItemsChoiceType4" Collapsed="true">
+    <Position X="2.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAxAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeDetImpostoICMSUFDestPICMSInter" Collapsed="true">
+    <Position X="4" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAQAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeTotalISSQNtotCRegTrib" Collapsed="true">
+    <Position X="14.5" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAIBAACAAAAAgABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeTranspModFrete" Collapsed="true">
+    <Position X="16.25" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACBAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.ItemChoiceType6" Collapsed="true">
+    <Position X="11" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TCfopTransp" Collapsed="true">
+    <Position X="9.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gEQIAAAAAAAAAEBAIQQAAAAhAAAAQoBQKQAAKBAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.ItemsChoiceType5" Collapsed="true">
+    <Position X="4" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAGAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFePagTPag" Collapsed="true">
+    <Position X="12.75" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFePagCardTpIntegra" Collapsed="true">
+    <Position X="11" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFePagCardTBand" Collapsed="true">
+    <Position X="9.25" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TNFeInfNFeInfAdicProcRefIndProc" Collapsed="true">
+    <Position X="7.5" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACBAEAAAIAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TInutNFeInfInutXServ" Collapsed="true">
+    <Position X="5.75" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.TCOrgaoIBGE" Collapsed="true">
+    <Position X="18" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACBAAAAAIBAACAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.ItemChoiceType7" Collapsed="true">
+    <Position X="12.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RemoveAssinaturaXml.Model.ItemChoiceType8" Collapsed="true">
+    <Position X="14.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Model\xmldsig-core-schema_v1_01_nfe_v3_10.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

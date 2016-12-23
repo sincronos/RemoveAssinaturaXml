@@ -1,0 +1,136 @@
+<q1:NFe xmlns:q1="http://www.portalfiscal.inf.br/nfe">
+  <q1:infNFe Id="NFe33160405650026000107650960000000259142850630" versao="3.10">
+    <q1:ide>
+      <q1:cUF>33</q1:cUF>
+      <q1:cNF>14285063</q1:cNF>
+      <q1:natOp>VENDA MERC.ADQ.REC.TERC</q1:natOp>
+      <q1:indPag>0</q1:indPag>
+      <q1:mod>65</q1:mod>
+      <q1:serie>96</q1:serie>
+      <q1:nNF>25</q1:nNF>
+      <q1:dhEmi>2016-04-08T14:28:50-03:00</q1:dhEmi>
+      <q1:tpNF>1</q1:tpNF>
+      <q1:idDest>1</q1:idDest>
+      <q1:cMunFG>3301009</q1:cMunFG>
+      <q1:tpImp>4</q1:tpImp>
+      <q1:tpEmis>9</q1:tpEmis>
+      <q1:cDV>0</q1:cDV>
+      <q1:tpAmb>2</q1:tpAmb>
+      <q1:finNFe>1</q1:finNFe>
+      <q1:indFinal>1</q1:indFinal>
+      <q1:indPres>1</q1:indPres>
+      <q1:procEmi>0</q1:procEmi>
+      <q1:verProc>6.4.1</q1:verProc>
+      <q1:dhCont>2016-04-08T14:28:50-03:00</q1:dhCont>
+      <q1:xJust>Sem conexao com Internet.</q1:xJust>
+    </q1:ide>
+    <q1:emit>
+      <q1:CNPJ>5650026000107</q1:CNPJ>
+      <q1:xNome>MONTEIRO &amp; SILVA EMPREENDIMENTOS COMERCIAIS LTDA ME</q1:xNome>
+      <q1:xFant>SUPERMERCADO SIQUEIRAO</q1:xFant>
+      <q1:enderEmit>
+        <q1:xLgr>PRACA NOSSA SENHORA DA CONCEICAO</q1:xLgr>
+        <q1:nro>9</q1:nro>
+        <q1:xBairro>CUSTODOPOLIS</q1:xBairro>
+        <q1:cMun>3301009</q1:cMun>
+        <q1:xMun>Campos dos Goytacazes</q1:xMun>
+        <q1:UF>RJ</q1:UF>
+        <q1:CEP>28055223</q1:CEP>
+        <q1:cPais>1058</q1:cPais>
+        <q1:xPais>BRASIL</q1:xPais>
+        <q1:fone>2222222222</q1:fone>
+      </q1:enderEmit>
+      <q1:IE>77550771</q1:IE>
+      <q1:CRT>3</q1:CRT>
+    </q1:emit>
+    <q1:det nItem="1">
+      <q1:prod>
+        <q1:cProd>2100</q1:cProd>
+        <q1:cEAN />
+        <q1:xProd>NOTA FISCAL EMITIDA EM AMBIENTE DE HOMOLOGACAO - SEM VALOR FISCAL</q1:xProd>
+        <q1:NCM>19019090</q1:NCM>
+        <q1:CFOP>5102</q1:CFOP>
+        <q1:uCom>UN</q1:uCom>
+        <q1:qCom>1.0000</q1:qCom>
+        <q1:vUnCom>3.8900</q1:vUnCom>
+        <q1:vProd>3.89</q1:vProd>
+        <q1:cEANTrib />
+        <q1:uTrib>UN</q1:uTrib>
+        <q1:qTrib>1.0000</q1:qTrib>
+        <q1:vUnTrib>3.8900</q1:vUnTrib>
+        <q1:indTot>1</q1:indTot>
+      </q1:prod>
+      <q1:imposto>
+        <q1:vTotTrib>0.16</q1:vTotTrib>
+        <q1:ICMS>
+          <q1:ICMS00>
+            <q1:orig>0</q1:orig>
+            <q1:CST>0</q1:CST>
+            <q1:modBC>3</q1:modBC>
+            <q1:vBC>3.89</q1:vBC>
+            <q1:pICMS>19.00</q1:pICMS>
+            <q1:vICMS>0.74</q1:vICMS>
+          </q1:ICMS00>
+        </q1:ICMS>
+      </q1:imposto>
+    </q1:det>
+    <q1:det nItem="2">
+      <q1:prod>
+        <q1:cProd>105</q1:cProd>
+        <q1:cEAN />
+        <q1:xProd>COCA COLA 2L.</q1:xProd>
+        <q1:NCM>22021000</q1:NCM>
+        <q1:CEST>30190</q1:CEST>
+        <q1:CFOP>5405</q1:CFOP>
+        <q1:uCom>UN</q1:uCom>
+        <q1:qCom>12.0000</q1:qCom>
+        <q1:vUnCom>5.8400</q1:vUnCom>
+        <q1:vProd>70.08</q1:vProd>
+        <q1:cEANTrib />
+        <q1:uTrib>UN</q1:uTrib>
+        <q1:qTrib>12.0000</q1:qTrib>
+        <q1:vUnTrib>5.8400</q1:vUnTrib>
+        <q1:indTot>1</q1:indTot>
+      </q1:prod>
+      <q1:imposto>
+        <q1:vTotTrib>12.12</q1:vTotTrib>
+        <q1:ICMS>
+          <q1:ICMS60>
+            <q1:orig>0</q1:orig>
+            <q1:CST>60</q1:CST>
+          </q1:ICMS60>
+        </q1:ICMS>
+      </q1:imposto>
+    </q1:det>
+    <q1:total>
+      <q1:ICMSTot>
+        <q1:vBC>3.89</q1:vBC>
+        <q1:vICMS>0.74</q1:vICMS>
+        <q1:vICMSDeson>0.00</q1:vICMSDeson>
+        <q1:vBCST>0.00</q1:vBCST>
+        <q1:vST>0.00</q1:vST>
+        <q1:vProd>73.97</q1:vProd>
+        <q1:vFrete>0.00</q1:vFrete>
+        <q1:vSeg>0.00</q1:vSeg>
+        <q1:vDesc>0.00</q1:vDesc>
+        <q1:vII>0.00</q1:vII>
+        <q1:vIPI>0.00</q1:vIPI>
+        <q1:vPIS>0.00</q1:vPIS>
+        <q1:vCOFINS>0.00</q1:vCOFINS>
+        <q1:vOutro>0.00</q1:vOutro>
+        <q1:vNF>73.97</q1:vNF>
+        <q1:vTotTrib>12.28</q1:vTotTrib>
+      </q1:ICMSTot>
+    </q1:total>
+    <q1:transp>
+      <q1:modFrete>9</q1:modFrete>
+    </q1:transp>
+    <q1:pag>
+      <q1:tPag>1</q1:tPag>
+      <q1:vPag>73.97</q1:vPag>
+    </q1:pag>
+  </q1:infNFe>
+  <q1:infNFeSupl>
+    <q1:qrCode>http://www4.fazenda.rj.gov.br/consultaNFCe/QRCode?chNFe=33160405650026000107650960000000259142850630&amp;nVersao=100&amp;tpAmb=2&amp;dhEmi=323031362d30342d30385431343a32383a35302d30333a3030&amp;vNF=73.97&amp;vICMS=0.74&amp;digVal=3656415549777633703275375a68473647594f6b3477682b716f6f3d&amp;cIdToken=000001&amp;cHashQRCode=BDB5F39FC79430C8B504E9CC4D5EC5CDB1C2F9E7</q1:qrCode>
+  </q1:infNFeSupl>
+</q1:NFe>

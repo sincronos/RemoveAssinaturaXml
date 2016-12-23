@@ -1,0 +1,77 @@
+﻿<Window x:Class="RemoveAssinaturaXml.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:vm="clr-namespace:RemoveAssinaturaXml.ViewModel"
+        xmlns:system="clr-namespace:System;assembly=mscorlib"
+        xmlns:local="clr-namespace:RemoveAssinaturaXml"
+        mc:Ignorable="d"
+        Title="Remover Assinatura NFC-e em Contingência" Height="700" Width="900">
+    <Window.DataContext>
+        <vm:MainWindowViewModel></vm:MainWindowViewModel>
+    </Window.DataContext>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="14*"/>
+            <RowDefinition Height="47*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="33*"/>
+            <RowDefinition Height="27*"/>
+            <RowDefinition Height="24*"/>
+            <RowDefinition Height="481*"/>
+            <RowDefinition Height="13*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="4*"/>
+            <ColumnDefinition Width="169*"/>
+            <ColumnDefinition Width="15*"/>
+            <ColumnDefinition Width="156*"/>
+            <ColumnDefinition Width="204*"/>
+            <ColumnDefinition Width="5*"/>
+            <ColumnDefinition Width="137*"/>
+            <ColumnDefinition Width="8*"/>
+            <ColumnDefinition Width="188*"/>
+            <ColumnDefinition Width="6*"/>
+        </Grid.ColumnDefinitions>
+        <Image Width="auto" Height="auto"  Grid.Column="8" Grid.Row="1" Grid.RowSpan="5" Source="Infraestrutura/logo_novo_tetra.png"/>
+        <Label Content="Informe o local dos arquivos" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="4"></Label>
+        <TextBox Grid.Column="1" Foreground="Gray" FontStyle="Italic" HorizontalAlignment="Stretch" Grid.Row="2" Text="{Binding PathXmls, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" VerticalAlignment="Stretch" Grid.ColumnSpan="4" />
+        <Button Content="Localizar pasta" Grid.Column="6" HorizontalAlignment="Stretch" Grid.Row="2" VerticalAlignment="Stretch" Command="{ Binding LocalPathCommand}"  />
+        <Button Content="Processar" Grid.Column="6" Grid.Row="4" Height="25" VerticalAlignment="Bottom" Margin="0,0,0,3" Command="{Binding ProcessCommand}" Grid.RowSpan="2"></Button>
+        <Label Content="{Binding Status}" Grid.Column="1" Grid.Row="5" VerticalAlignment="Bottom" FontSize="10" FontWeight="Bold" Height="23" Grid.ColumnSpan="4"></Label>
+
+        <Label Content="Data Inicial" Grid.Column="1" Grid.Row="3" VerticalAlignment="Bottom" Height="26"/>
+        <DatePicker Grid.Column="1" Grid.Row="4" DisplayDate="{Binding DtInicial}"  DisplayDateStart="3/1/2016"  DisplayDateEnd="3/31/2018" SelectedDate="{Binding DtInicial,Mode=TwoWay,TargetNullValue={x:Static system:DateTime.Now}}"/>
+        <Label Content="Data Final" Grid.Column="3" Grid.Row="3" VerticalAlignment="Bottom" Height="26"/>
+        <DatePicker Grid.Column="3" Grid.Row="4" DisplayDate="{Binding DtFinal}"  DisplayDateStart="3/1/2016"  DisplayDateEnd="3/31/2018" SelectedDate="{Binding DtFinal,Mode=TwoWay,TargetNullValue={x:Static system:DateTime.Now}}"/>
+
+
+        <DataGrid x:Name="listBox" ItemsSource="{Binding ListaStatus}" AutoGenerateColumns="False" IsReadOnly="True" Grid.Column="1" HorizontalAlignment="Stretch" Grid.Row="6" Grid.ColumnSpan="6" VerticalAlignment="Stretch">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Número" Binding="{Binding Path=NumNfce}"/>
+                <DataGridTextColumn Header="Status" Binding="{Binding Path=StatusProcesso}"/>
+                <DataGridTextColumn Header="Chave" Width="350" Binding="{Binding Path=Chave}"/>
+                <DataGridTextColumn Header="Emissão" Binding="{Binding Path=DtEmissao}"/>
+                <DataGridTextColumn Header="Total" Binding="{Binding Path=Valor}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <StackPanel Grid.Column="8" Grid.Row="6">
+            <StackPanel>
+                <TextBlock Text="Ajustar formatação dos campos: " FontSize="11" FontWeight="Bold" Margin="5,5,0,10"></TextBlock>
+                <CheckBox Content="NCM" Margin="10,2" IsChecked="{Binding CamposConfig.CbNCM}"/>
+                <CheckBox Content="CEST" Margin="10,2" IsChecked="{ Binding CamposConfig.CbCEST}" />
+            </StackPanel>
+            <StackPanel Grid.Column="8" Grid.Row="6">
+                <TextBlock Text="Configurações: " FontSize="11" FontWeight="Bold" Margin="5,15,0,10"></TextBlock>
+                <CheckBox Margin="10,0,0,5" IsChecked="{Binding CamposConfig.Rej384}" ToolTip="Campos CSOSN de cód. 103 serão convertidos para 102 e Cód. 400 para 300.">
+                    <TextBlock>
+                        <AccessText TextWrapping="Wrap"  Text="Tratar Rejeição 394 - CSOSN não permitido para a UF"/>
+                    </TextBlock>
+                </CheckBox>
+            </StackPanel>
+        </StackPanel>
+
+    </Grid>
+</Window>
